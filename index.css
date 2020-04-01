@@ -89,10 +89,10 @@ button{
     .img-div{
         position: relative;
         flex: none;
-        margin-top: 35%;
+        top: 10%;
         height: 30%;
         background-size: contain;
-        margin-bottom: 2rem;
+        margin-bottom: 5rem;
     }
     .text-div{
         top: 1rem;
@@ -110,6 +110,8 @@ button{
     .text-div p {
         margin: 0;
         text-align: center;
+        line-height: normal;
+        margin-bottom: 3rem;
     }
     .socials{
         display: inline;
@@ -118,6 +120,7 @@ button{
         right: 25%;
         left: 50%;
         margin-left: -25%;
+        text-align: center;
     
     }
     .socials span {
